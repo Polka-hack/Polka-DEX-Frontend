@@ -74,7 +74,8 @@
     "react-tippy": "^1.4.0",
     "semantic-ui-css": "^2.4.1",
     "semantic-ui-react": "^1.2.1",
-    "styled-components": "^5.2.0"
+    "styled-components": "^5.2.0",
+    "babel-jest": "^24.9.0"
   },
   "devDependencies": {
     "@testing-library/react": "^11.0.4",
